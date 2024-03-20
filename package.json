@@ -1,6 +1,6 @@
 {
   "name": "hanrolka01",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculation of TE dynamics",
   "main": "index.js",
   "scripts": {
